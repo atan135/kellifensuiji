@@ -45,9 +45,9 @@
 
    视频：
 
-   <video src="video/gongyi1.mp4">
+   <video width="320" height="240" controls> <source src="./video/gongyi1.mp4" type="video/mp4">您的浏览器不支持 video 标签。 </video> 
 
-   <video src="video/gongyi2.mp4">
+   <video width="320" height="240" controls> <source src="./video/gongyi2.mp4" type="video/mp4">您的浏览器不支持 video 标签。 </video> 
 
 2. **广州平民机械设备：**
 
@@ -63,9 +63,9 @@
 
    视频：
 
-   <video src="video/guangzhou1.mp4">
+   <video width="320" height="240" controls> <source src="./video/guangzhou1.mp4" type="video/mp4">您的浏览器不支持 video 标签。 </video> 
 
-   <video src="video/guangzhou2.mp4">
+   <video width="320" height="240" controls> <source src="./video/guangzhou2.mp4" type="video/mp4">您的浏览器不支持 video 标签。 </video> 
 
 3. **江苏鸿舜 880大型:**
 

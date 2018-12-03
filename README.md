@@ -103,4 +103,4 @@
 
    ![](./img/yulong2.png)
 
-   <video class="dplayer-video dplayer-video-current" webkit-playsinline="" playsinline="" preload="metadata" src="blob:http://www.yulongjixie.cn/a15c6497-038b-4de2-82d6-28330de0ca6d"></video>
+   <video width="320" height="240" controls> <source src="blob:http://www.yulongjixie.cn/a15c6497-038b-4de2-82d6-28330de0ca6d" type="video/mp4">您的浏览器不支持 video 标签。 </video> 

@@ -53,6 +53,8 @@
 
    中大型木屑颗粒机平模生物质颗粒机生物燃烧颗粒机锯末木屑制粒机
 
+   [淘宝链接](https://item.taobao.com/item.htm?spm=a230r.1.14.16.28d3354eYPBcrG&id=546158615606&ns=1&abbucket=11#detail)
+
    价格：2-3万
 
    产量：如下图
@@ -67,6 +69,8 @@
 
 3. **江苏鸿舜 880大型:**
 
+   [淘宝链接](https://item.taobao.com/item.htm?spm=a230r.1.14.16.61de3493oBouWM&id=564949674497&ns=1&abbucket=11#detail)
+
    厂家生产880锯末颗粒机 木屑颗粒机 大型生物质锯末颗粒机
 
    价格：55万
@@ -78,6 +82,8 @@
 ![](./img/jiangsu3.png)
 
 4. **河南兴郎机械设备公司：**
+
+   [淘宝链接](https://item.taobao.com/item.htm?spm=a230r.1.14.21.46dc3493JP0BKJ&id=570377222777&ns=1&abbucket=11#detail)
 
    厂家生产880锯末颗粒机 木屑颗粒机 大型生物质锯末颗粒机
 

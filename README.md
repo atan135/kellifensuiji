@@ -94,3 +94,13 @@
    ![](./img/xinglang2.jpg)
 
    ![](./img/xinglang3.jpg)
+
+5. **宇龙机械：**
+
+   地址：http://www.yulongjixie.cn/products/keliji-2015110126.html
+
+   ![](./img/yulong1.jpg)
+
+   ![](./img/yulong2.png)
+
+   <video class="dplayer-video dplayer-video-current" webkit-playsinline="" playsinline="" preload="metadata" src="blob:http://www.yulongjixie.cn/a15c6497-038b-4de2-82d6-28330de0ca6d"></video>
